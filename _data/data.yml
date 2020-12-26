@@ -73,6 +73,12 @@ education:
       time: 2018
 
 experiences:
+    - role: Freelancer
+      time: 2021 - today
+      company: Self-Employed
+      details: |
+        IT Consulting
+
     - role: Senior Java Developer
       time: 2019 - 2020
       company: ING-DiBa Austria, Vienna
