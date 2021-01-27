@@ -155,17 +155,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: (Backend) Microservices, Spring Boot, Java, Scala
+      - name: Microservices, Spring Boot, Java, Scala
+        level: 98%
 
-      - name: (DevOps and Cloud) Setting CI/CD pipelines with Jenkins, Docker, Kubernetes
+      - name: Setting CI/CD pipelines with Jenkins, Docker
+        level: 70%
 
-      - name: (Testing) TDD, BDD, unit testing, integration testing
+      - name: TDD, BDD, unit testing, integration testing
+        level: 98%
 
-      - name: (Databases) Experience with Oracle, Postgres, H2
+      - name: Experience with Oracle, Postgres, H2
+        level: 60%
 
-      - name: (Agility) Certified Scrum Master, broad experience with scrum teams
+      - name: Certified Scrum Master, broad experience with scrum teams
+        level: 98%
 
-      - name: (Frontend) Solid experience with angular and overall with javascript
+      - name: Solid experience with angular and overall with javascript
+        level: 60%
 
-‚footer: >
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
