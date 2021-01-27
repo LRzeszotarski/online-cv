@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Łukasz Rzeszotarski
-    tagline: Agile Software Craftsman, TDD & Clean Code Advocate
+    tagline: Freelancer, Agile Software Craftsman, TDD & Clean Code Advocate
     avatar: 0.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Agile Software Craftsman, TDD, Clean Code and Pair Programming Advocate, Certified Scrum Master (PSM I)
+      Freelancer, Agile Software Craftsman, TDD, Clean Code and Pair Programming Advocate, Certified Scrum Master (PSM I)
 
 education:
     - degree: Master in Computer Science
@@ -74,10 +74,17 @@ education:
 
 experiences:
     - role: Freelancer
-      time: January, 2021 - today
-      company: Self-Employed
+      time: January, 2021 - February, 2021
+      company: Tech Company
       details: |
-        - IT Consulting & Agile Advisory
+        Backend functionalities for the DMS platform, mainly using Spring Boot. Authorization and authentication with Keycloak. Deployment with Docker and Google Cloud Platform.
+
+        - Spring Boot
+        - Java 8
+        - Docker
+        - Google Cloud Platform
+        - Keycloak
+        - TDD
 
     - role: Senior Java Developer
       time: 2019 - 2020
@@ -85,7 +92,7 @@ experiences:
       details: |
         Banking Payment and Cards Team, payment transactions, PSD2, 3DS, agile and technical coaching, scrum team member
 
-        - Spring Boot/ Spring
+        - Spring Boot
         - JEE/ JBoss EAP
         - Microservices Architecture
         - Java 8
@@ -96,7 +103,7 @@ experiences:
       time: 2014 - 2018
       company: BearingPoint Technology GmbH, Vienna
       details: |
-        Enterprise applications, architecture design and implementation of various solutions for the key company clients like A1 (A1 Telekom Austria) and ÖBB (Österreichische Bundesbahnen - Austrian Federal Railways) , agile and technical coaching, scrum team member
+        Enterprise applications, architecture design and implementation of various solutions for the company's key clients such as A1 (A1 Telekom Austria) and ÖBB (Österreichische Bundesbahnen - Austrian Federal Railways), agile and technical coaching, member of the scrum team
 
         - Spring Boot/ Spring
         - JEE/ Wildfly 11
@@ -115,7 +122,7 @@ experiences:
       time: 2015 - 2017
       company: ÖBB, Austrian Federal Railways, Vienna
       details: |
-        A single page, multi channel web application, with microsevices in the backend.
+        Building a single page, multi channel web application, with microsevices in the backend.
 
         - Spring Boot/ Spring
         - JEE/ Wildfly 11
@@ -132,22 +139,11 @@ experiences:
       details: |
         Software development, agile advisory for the energy sector.
 
-        - Spring
-        - JEE
-        - Tomcat
-        - Swing GUI-Toolkit
-        - JFreeChart
-
     - role: Software Developer
       time: 2010 - 2012
       company: Meritum Bank ICB SA, Gdansk
       details: |
         e-Banking, new products definition, implementing workflows for the new products like cards, credit cards, loans, mortgage loans, etc.
-
-        - Spring
-        - JEE/ WebSphere
-        - Tomcat
-        - JavaScript/ jQuery
 
     - role: Software Developer
       time: 2008 - 2010
@@ -155,63 +151,27 @@ experiences:
       details: |
         Computer Science Department at University of Gdansk. Software for the university management, students, student houses, grades, degrees, etc.
 
-        - Spring
-        - JEE/ JBoss
-        - Tomcat
-        - Swing GUI-Toolkit
-        - Java Web Start
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Spring Boot/ Spring
+      - name: (Backend) Microservices, Spring Boot, Java, Scala
         level: 98%
 
-      - name: JEE
-        level: 98%
-
-      - name: Microservices
+      - name: (DevOps and Cloud) Setting CI/CD pipelines with Jenkins, Docker, Kubernetes
         level: 70%
 
-      - name: Java
+      - name: (Testing) TDD, BDD, unit testing, integration testing
         level: 98%
 
-      - name: Kafka/ Kafka Streams
-        level: 30%
+      - name: (Databases) Experience with Oracle, Postgres, H2
+        level: 60%
 
-      - name: Apache Camel
-        level: 50%
-
-      - name: RabbitMQ
-        level: 70%
-
-      - name: Scala & Groovy
-        level: 70%
-
-      - name: Angular
-        level: 50%
-
-      - name: NodeJS
-        level: 50%
-
-      - name: TDD/BDD
+      - name: (Agility) Certified Scrum Master, broad experience with scrum teams
         level: 98%
 
-      - name: Cucumber
-        level: 98%
-
-      - name: Spring Cloud Contract
-        level: 98%
-
-      - name: Groovy/ Spock Tests
-        level: 98%
-
-      - name: Jenkins
-        level: 98%
-
-      - name: Ansible
-        level: 30%
+      - name: (Frontend) Solid experience with angular and overall with javascript
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
