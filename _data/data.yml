@@ -158,19 +158,19 @@ skills:
       - name: Microservices, Spring Boot, Java, Scala
         level: 98%
 
-      - name: Setting CI/CD pipelines with Jenkins, Docker
-        level: 70%
-
       - name: TDD, BDD, unit testing, integration testing
         level: 98%
-
-      - name: Experience with Oracle, Postgres, H2
-        level: 60%
 
       - name: Certified Scrum Master, broad experience with scrum teams
         level: 98%
 
-      - name: Solid experience with angular and overall with javascript
+      - name: Setting CI/CD pipelines with Jenkins, Docker
+        level: 70%
+
+      - name: Experience with Oracle, Postgres, H2
+        level: 70%
+
+      - name: Solid experience with Angular and overall with javascript
         level: 60%
 
 footer: >
