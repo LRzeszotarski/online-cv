@@ -75,8 +75,8 @@ experiences:
     - role: Freelancer
       time: February, 2021 - ongoing
       company: Startup
-       details: |
-         Backend services for the leading Cloud Native Banking platform.
+      details: |
+        Backend services for the leading Cloud Native Banking platform.
 
         - Microservices
         - Spring Boot
