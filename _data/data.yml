@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: lukasz.rzeszotarski@outlook.com
-    # phone: 0664 527 41 89
     website: lrzeszotarski.github.io #do not add http://
     linkedin: łukasz-rzeszotarski-94997611a
     github: LRzeszotarski
@@ -73,6 +72,21 @@ education:
       time: 2018
 
 experiences:
+    - role: Freelancer
+      time: February, 2021 - ongoing
+      company: Startup
+       details: |
+         Backend services for the leading Cloud Native Banking platform.
+
+        - Microservices
+        - Spring Boot
+        - Flowable BPMN
+        - Java 8+
+        - Docker
+        - Kubernetes
+        - GCP
+        - TDD
+
     - role: Freelancer
       time: January, 2021 - February, 2021
       company: Tech Company
